@@ -2,8 +2,7 @@
 #include "unistd.h"
 using namespace std;
 
-int main()
-{
+int main() {
         bool loop = true;
         while (loop)
         {
